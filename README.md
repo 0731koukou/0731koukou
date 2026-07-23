@@ -11,8 +11,8 @@ I build practical AI agents and engineering tools for industrial intelligence.
 
 ## Featured Work
 
-- [diagram-to-ppt](https://github.com/0731koukou/diagram-to-ppt)  
-  Convert architecture and flowchart images into editable PowerPoint diagrams.
+- **[Codex Beacon](https://github.com/0731koukou/codex-beacon)** — A Windows task-status island for Codex: monitor progress, surface approval requests, and jump back to the right conversation. [Download v0.4.0](https://github.com/0731koukou/codex-beacon/releases/tag/v0.4.0)
+- **[diagram-to-ppt](https://github.com/0731koukou/diagram-to-ppt)** — Convert architecture and flowchart images into editable PowerPoint diagrams.
 
 ## Principles
 
